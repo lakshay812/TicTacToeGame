@@ -1,16 +1,35 @@
-# tictactoe
+# TicTacToe Game 🎮✨
 
-A new Flutter project.
+Welcome to the TicTacToe Game! This simple, fun game lets two players compete to line up three marks and win!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features ⭐
 
-A few resources to get you started if this is your first Flutter project:
+- 🎲 Two-player gameplay — challenge your friends!
+- 🎨 Clean, intuitive user interface
+- 🏆 Score tracking to see who wins the most
+- 🔄 Reset button to start fresh anytime
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation 🚀
+
+Clone the repo to your local machine:
+
+```bash
+git clone https://github.com/lakshay812/TicTacToeGame.git
+
+
+Open the project in your favorite IDE (Android Studio, VS Code, etc.).
+
+Run the project and get ready to play!
+
+---
+
+## How to Play 🕹️
+
+- Players take turns marking X or O on the 3x3 grid.
+- First to get three in a row — horizontally, vertically, or diagonally — wins! 🎉
+- If the grid fills up with no winner, it's a draw. 🤝
+- Hit the Reset button to start a new game anytime.
