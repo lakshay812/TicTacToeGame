@@ -19,8 +19,10 @@ Clone the repo to your local machine:
 
 ```bash
 git clone https://github.com/lakshay812/TicTacToeGame.git
-```bash
+```
+
 ---
+
 Open the project in your favorite IDE (Android Studio, VS Code, etc.).
 
 Run the project and get ready to play!
