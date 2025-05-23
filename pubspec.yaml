@@ -1,0 +1,34 @@
+name: tic_tac_toe
+description: A simple Tic Tac Toe game in Flutter.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+  fonts:
+    - family: MyFont
+      fonts:
+        - asset: assets/fonts/KnightWarrior-w16n8.otf
+    - family: MyFont2
+      fonts:
+        - asset: assets/fonts/SuperPixel-m2L8j.ttf
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/download.jpeg"
